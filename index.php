@@ -1,5 +1,5 @@
 <?php
-echo "1";
+echo "1"; // 1 - номер задания
 echo "<br/>";
 echo "Hello world!";
 echo "<br/>";
